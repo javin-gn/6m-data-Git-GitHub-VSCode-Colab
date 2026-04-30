@@ -62,3 +62,5 @@ Once you're comfortable with the basics, here are optional next steps to explore
 - **GitHub Desktop** — a visual app for managing Git without any command line
 
 These are topics for a future session. For now, focus on getting the core workflow smooth.
+
+Test commit
